@@ -1,0 +1,398 @@
+🚗 AutoHub AI
+
+La forma más inteligente de comprar, vender e intercambiar vehículos en Colombia.
+
+⸻
+
+Visión
+
+AutoHub AI es una plataforma digital que centraliza todo el proceso de compra, venta e intercambio de vehículos en un solo lugar.
+
+No es solo un portal de clasificados; es un ecosistema donde compradores, vendedores, tramitadores, entidades financieras y proveedores de servicios interactúan de manera segura, transparente y apoyados por Inteligencia Artificial.
+
+Nuestro objetivo es que cualquier persona pueda vender o comprar un vehículo sin salir de la plataforma.
+
+⸻
+
+Propuesta de Valor
+
+* Publicar vehículos completamente GRATIS.
+* Registro gratuito de usuarios.
+* IA que estima el valor comercial del vehículo.
+* Marketplace de compra, venta e intercambio.
+* Chat interno entre compradores y vendedores.
+* Tramitadores certificados.
+* Asesoría legal durante todo el proceso.
+* Documentación digital.
+* Servicios automotrices integrados.
+* Plataforma segura y transparente.
+
+⸻
+
+Modelo Freemium
+
+Plan Gratuito
+
+Todo usuario podrá:
+
+* Crear una cuenta.
+* Publicar vehículos sin costo.
+* Editar publicaciones.
+* Recibir mensajes.
+* Buscar vehículos.
+* Guardar favoritos.
+* Consultar precio estimado del vehículo.
+* Recibir ofertas.
+* Intercambiar vehículos.
+* Utilizar el chat interno.
+
+La publicación de vehículos siempre será gratuita.
+
+⸻
+
+Funcionalidades
+
+Marketplace
+
+* Compra de vehículos.
+* Venta de vehículos.
+* Intercambio de vehículos.
+* Vehículos nuevos.
+* Vehículos usados.
+* Motos.
+* Camionetas.
+* Vehículos comerciales.
+
+⸻
+
+Perfil del Usuario
+
+Cada usuario tendrá:
+
+* Información personal.
+* Identidad verificada.
+* Vehículos publicados.
+* Vehículos vendidos.
+* Calificación.
+* Historial de compras.
+* Historial de ventas.
+* Historial de intercambios.
+
+⸻
+
+IA de Valoración
+
+La Inteligencia Artificial analizará:
+
+* Marca.
+* Modelo.
+* Año.
+* Kilometraje.
+* Ciudad.
+* Versión.
+* Equipamiento.
+* Oferta y demanda.
+* Tendencias del mercado.
+
+Y entregará:
+
+* Precio mínimo.
+* Precio recomendado.
+* Precio máximo.
+* Tiempo estimado de venta.
+* Recomendaciones para mejorar la publicación.
+
+⸻
+
+Publicación Inteligente
+
+El usuario sube fotografías.
+
+La IA:
+
+* Detecta la marca.
+* Detecta el modelo.
+* Detecta accesorios.
+* Genera automáticamente la descripción.
+* Sugiere el precio ideal.
+* Calcula la probabilidad de venta.
+
+⸻
+
+Intercambio Inteligente
+
+El usuario puede activar:
+
+“Acepto vehículo como parte de pago.”
+
+La plataforma calculará automáticamente:
+
+* Valor del vehículo del comprador.
+* Valor del vehículo del vendedor.
+* Diferencia económica.
+* Gastos de traspaso.
+* Costos legales.
+* Impuestos aproximados.
+* Valor final que debe aportar cada parte.
+
+⸻
+
+Calculadora Legal
+
+Permite conocer:
+
+* Valor del traspaso.
+* Impuestos.
+* Derechos de tránsito.
+* Costos notariales.
+* Cambio de propietario.
+* Levantamiento de prenda.
+* Matrícula.
+* Cambio de color.
+* Cambio de motor.
+* Cambio de placas.
+
+⸻
+
+Marketplace de Tramitadores
+
+Los tramitadores podrán crear su propio perfil.
+
+Información:
+
+* Experiencia.
+* Ciudad.
+* Calificación.
+* Servicios.
+* Tarifas.
+* Tiempo de respuesta.
+
+Los usuarios podrán contratarlos directamente desde la plataforma.
+
+⸻
+
+Servicios Automotrices
+
+Marketplace para:
+
+* Talleres.
+* Peritos.
+* Lavaderos.
+* Aseguradoras.
+* Financiamiento.
+* Polarizados.
+* GPS.
+* Grúas.
+* Talleres especializados.
+* Centros de diagnóstico.
+* Lavado premium.
+
+⸻
+
+Chat Inteligente
+
+Incluye:
+
+* Mensajería.
+* Envío de imágenes.
+* Documentos.
+* Ubicación.
+* Notificaciones.
+* IA que ayuda a negociar.
+
+⸻
+
+Asesor IA
+
+El asistente responderá preguntas como:
+
+* ¿Cuánto vale mi carro?
+* ¿Es buen momento para vender?
+* ¿Cuánto cuesta el traspaso?
+* ¿Qué documentos necesito?
+* ¿Qué vehículo me recomiendas?
+* ¿Qué oferta debería aceptar?
+
+⸻
+
+Dashboard
+
+Cada vendedor verá:
+
+* Visualizaciones.
+* Mensajes.
+* Ofertas.
+* Personas interesadas.
+* Tiempo promedio de venta.
+* Comparación con otros vehículos.
+* Recomendaciones para vender más rápido.
+
+⸻
+
+Fuentes de Ingresos
+
+La publicación seguirá siendo gratuita. El negocio monetiza mediante servicios de valor agregado.
+
+1. Anuncios Destacados ⭐⭐⭐⭐⭐
+
+El usuario paga para aparecer primero.
+
+Ejemplos:
+
+* Destacar 7 días.
+* Destacar 15 días.
+* Destacar 30 días.
+
+⸻
+
+2. Publicidad
+
+Espacios para:
+
+* Concesionarios.
+* Marcas.
+* Talleres.
+* Aseguradoras.
+* Bancos.
+* Lubricantes.
+* Accesorios.
+
+⸻
+
+3. Comisión por Tramitadores
+
+Por cada servicio contratado desde la plataforma se cobra una comisión.
+
+⸻
+
+4. Comisión por Financiamiento
+
+Alianzas con bancos y entidades financieras para créditos vehiculares.
+
+Ingreso por referencia aprobada.
+
+⸻
+
+5. Comisión por Seguros
+
+Integración con aseguradoras.
+
+SOAT.
+
+Todo Riesgo.
+
+Garantías mecánicas.
+
+⸻
+
+6. Comisión por Peritajes
+
+Cuando un usuario solicite una inspección antes de comprar.
+
+⸻
+
+7. Firma Electrónica
+
+Venta de:
+
+* Promesas de compraventa.
+* Contratos.
+* Poderes.
+* Autorizaciones.
+
+⸻
+
+8. Plan Premium para Concesionarios
+
+Suscripción mensual que incluye:
+
+* Inventario ilimitado.
+* Perfil corporativo.
+* Analítica avanzada.
+* Reportes de ventas.
+* Integración mediante API.
+* CRM de clientes.
+
+⸻
+
+9. Plan Premium para Tramitadores
+
+Mayor visibilidad.
+
+Insignia verificada.
+
+Publicidad.
+
+Generación de clientes potenciales.
+
+⸻
+
+10. Publicidad Inteligente
+
+El propietario puede invertir para promocionar su vehículo dentro de la plataforma y en redes sociales.
+
+⸻
+
+11. API para Empresas
+
+Empresas podrán consumir información mediante API para integrar inventarios y servicios.
+
+⸻
+
+12. Reporte Premium del Vehículo
+
+Reporte completo con información consolidada del vehículo (según las integraciones disponibles), historial y análisis de mercado.
+
+⸻
+
+13. Servicios de IA
+
+Suscripción para:
+
+* Valoraciones ilimitadas.
+* Alertas de precio.
+* Recomendaciones de compra.
+* Asistente experto.
+* Comparación avanzada.
+
+⸻
+
+14. Marketplace de Accesorios
+
+Venta de:
+
+* Llantas.
+* Rines.
+* Radios.
+* Pantallas.
+* Alarmas.
+* Accesorios.
+
+La plataforma cobra una comisión.
+
+⸻
+
+15. Programa para Concesionarios
+
+Los concesionarios podrán comprar leads calificados de personas interesadas en vender o cambiar su vehículo.
+
+⸻
+
+Tecnologías Sugeridas
+
+* Frontend: Next.js
+* Backend: NestJS
+* Base de datos: PostgreSQL
+* Autenticación: Supabase Auth o Auth0
+* Almacenamiento: Supabase Storage o Amazon S3
+* Chat en tiempo real: WebSockets
+* IA: OpenAI
+* Mapas: Google Maps
+* Pagos: Wompi, Mercado Pago o Stripe
+* Hosting: Vercel + Railway o AWS
+
+⸻
+
+Objetivo
+
+Convertirse en la plataforma líder de compra, venta e intercambio de vehículos en Colombia, ofreciendo una experiencia segura, inteligente y totalmente digital donde el usuario pueda realizar todo el proceso desde un único lugar.
