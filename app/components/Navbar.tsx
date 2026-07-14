@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import ThemeToggle from "./ThemeToggle";
 
 const links = [
   { label: "Inicio", href: "#" },
@@ -34,6 +35,7 @@ export default function Navbar() {
 
         {/* Acciones */}
         <div className="flex items-center gap-2">
+          <ThemeToggle />
           <a
             href="#login"
             className="hidden rounded-full px-4 py-2 text-sm font-semibold text-foreground hover:bg-surface sm:block"

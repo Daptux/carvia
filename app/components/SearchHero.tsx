@@ -8,7 +8,9 @@ export default function SearchHero() {
 
   return (
     <section className="relative overflow-hidden border-b border-border">
-      <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(70%_60%_at_50%_0%,color-mix(in_srgb,var(--brand)_22%,transparent),transparent)]" />
+      {/* Fondo tipo malla de gradientes */}
+      <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(45%_55%_at_15%_0%,color-mix(in_srgb,var(--brand)_20%,transparent),transparent),radial-gradient(45%_55%_at_85%_10%,color-mix(in_srgb,var(--accent)_16%,transparent),transparent)]" />
+      <div className="pointer-events-none absolute inset-0 -z-10 bg-[linear-gradient(to_bottom,transparent,var(--background))]" />
 
       <div className="mx-auto max-w-5xl px-4 py-16 text-center sm:px-6 sm:py-20">
         <span className="inline-flex items-center gap-2 rounded-full border border-border bg-surface px-4 py-1.5 text-xs font-medium text-muted">
@@ -105,6 +107,22 @@ export default function SearchHero() {
             </button>
           </div>
         </div>
+
+        {/* Barra de confianza */}
+        <dl className="mx-auto mt-10 grid max-w-2xl grid-cols-3 gap-4">
+          {[
+            { n: "0%", l: "Comisiones" },
+            { n: "+120", l: "Marcas" },
+            { n: "24/7", l: "Asesor IA" },
+          ].map((s) => (
+            <div key={s.l} className="text-center">
+              <dt className="text-2xl font-extrabold text-foreground sm:text-3xl">
+                {s.n}
+              </dt>
+              <dd className="text-xs text-muted sm:text-sm">{s.l}</dd>
+            </div>
+          ))}
+        </dl>
       </div>
     </section>
   );

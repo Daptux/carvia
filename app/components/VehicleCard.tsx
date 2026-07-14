@@ -10,12 +10,23 @@ export default function VehicleCard({ v }: { v: Vehiculo }) {
     <article className="group overflow-hidden rounded-2xl border border-border bg-background transition hover:-translate-y-1 hover:shadow-xl hover:shadow-brand/5">
       {/* Banner (placeholder hasta tener fotos reales) */}
       <div
-        className="relative flex h-44 items-center justify-center"
+        className="relative flex h-44 items-center justify-center overflow-hidden"
         style={{
           background: `linear-gradient(135deg, ${v.color}, color-mix(in srgb, ${v.color} 55%, black))`,
         }}
       >
-        <span className="text-5xl drop-shadow">🚗</span>
+        {/* Textura sutil de puntos */}
+        <div
+          className="absolute inset-0 opacity-20"
+          style={{
+            backgroundImage:
+              "radial-gradient(circle, rgba(255,255,255,.5) 1px, transparent 1px)",
+            backgroundSize: "16px 16px",
+          }}
+        />
+        <span className="text-5xl drop-shadow-lg transition-transform duration-300 group-hover:scale-110">
+          🚗
+        </span>
         <span className="absolute left-3 top-3 rounded-md bg-black/40 px-2 py-1 text-xs font-medium text-white backdrop-blur">
           {v.marca}
         </span>
